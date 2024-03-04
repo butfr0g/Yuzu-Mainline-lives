@@ -1,0 +1,2 @@
+# Yuzu-lives
+NS emulator 
