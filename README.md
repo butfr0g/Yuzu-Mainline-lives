@@ -35,7 +35,7 @@ The emulator is capable of running most commercial games at full speed, provided
 
 For a full list of games yuzu supports, please visit our [Compatibility page](https://yuzu-emu.org/game/).
 
-Check out our [website] ([https://yuzu-emu.org/](https://web.archive.org/web/20240304211628/https://yuzu-emu.org/)) for the latest news on exciting features, monthly progress reports, and more!
+Check out our [website]([https://yuzu-emu.org/](https://web.archive.org/web/20240304211628/https://yuzu-emu.org/)) for the latest news on exciting features, monthly progress reports, and more!
 
 ## Development
 
