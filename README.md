@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://github.com/butfr0g/Yuzu-lives/assets/160740809/62801c2c-c699-4a07-ab6e-8588cb8a856d" width="200">
+  <img src="https://github.com/butfr0g/Yuzu-lives/assets/160740809/fab32a23-3462-4627-970e-7b96b2538fc7" width="200">
   <br>
   <b>yuzu</b>
 </h1>
