@@ -31,7 +31,7 @@ It is written in C++ with portability in mind, and we actively maintain builds f
 
 ## Compatibility
 
-The emulator is capable of running most commercial games at full speed, provided you meet the [necessary hardware requirements](https://yuzu-emu.org/help/quickstart/#hardware-requirements).
+The emulator is capable of running most commercial games at full speed, provided you meet the [necessary hardware requirements](https://web.archive.org/web/20240304182810/https://yuzu-emu.org/help/quickstart/#hardware-requirements).
 
 For a full list of games yuzu supports, please visit our [Compatibility page](https://yuzu-emu.org/game/).
 
