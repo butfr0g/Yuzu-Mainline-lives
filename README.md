@@ -53,7 +53,7 @@ If you want to contribute to the user interface translation project, please chec
 
 ## Download
 
-You can download the latest releases automatically via the installer on our [downloads](https://yuzu-emu.org/downloads/) page.
+You can download the latest releases automatically via the installer on our [downloads](https://web.archive.org/web/20240304142519/https://yuzu-emu.org/downloads/#windows) page.
 
 
 ## Support
