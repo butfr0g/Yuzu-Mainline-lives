@@ -1,3 +1,5 @@
+# This project DOES NOT suppot piracy, you are required to source your own games and keys, we make no money off this project.
+
 <h1 align="center">
 <br>
   <img src="https://github.com/butfr0g/Yuzu-Android-lives/assets/160740809/0c97ec7a-11c5-402b-9c3a-8c5ff706570d" width="200">
